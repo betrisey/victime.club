@@ -1,3 +1,4 @@
+// Happy crossy Mael
 (function (lib, img, cjs) {
 
 var p; // shortcut to reference prototypes
